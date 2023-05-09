@@ -1,0 +1,271 @@
+{
+    "ProblemList": {
+        "SHO1": "Frozen Shoulder",
+        "SHO2": "Rotary Cutoff Injury",
+        "SHO3": "Bicipiyal Tendiuitis",
+        "SHO4": "Bursiyis of Shoulder",
+        "SHO5": "Postural Shoulder Pain",
+        "SHO6": "Thorauc Outer Syndrome/ Radicoldpathy"
+    },
+    "GeneralSymptoms": {
+        "S0": "Pain in Shoulder",
+        "S5": "Pain in Shoulder with swelling",
+        "S6": "Pain in Shoulder without swelling",
+        "S9": "Pain in Shoulder while touching your ears",
+        "S10": "Pain in Shoulder while touching your head",
+        "S13": "Pain in Shoulder tucking shirt in",
+        "S16": "Pain in Shoulder sleeping straight",
+        "S19": "Pain in Shoulder after any sports",
+        "S21": "Pain in Shoulder increases after daily work",
+        "S22": "Pain in Shoulder during morning",
+        "S23": "Pain in Shoulder after lifting arm frontway",
+        "S24": "Pain in Shoulder after lifting arm sideways",
+       
+        "S35": "Pain in Shoulder remains same always",
+        "S44": "Pain in Shoulder while lifting arms sideways for 30  ̊ ",
+        "S45": "Pain in Shoulder while lifting arms sideways for 60 ̊  to 90 ̊ ",
+        "S46": "Pain in Shoulder while lifting arms sideways for 90 ̊  to 120 ̊ ",
+        "S47": "Pain in Shoulder while lifting arms sideways for 120 ̊  to 180 ̊ ",
+        "S49": "Pain in Shoulder taking arm backwards for 10 ̊ ",
+        "S50": "Pain in Shoulder taking arm backwards for 10 ̊  to 30 ̊ ",
+        "S51": "Pain in Shoulder taking arm backwards for 30 ̊  to 45 ̊ ",
+        "S52": "Pain in Shoulder while playing badminton",
+        "S54": "Pain in Shoulder while playing tennis",
+        "S55": "Pain in Shoulder while writing on notepad",
+        "S57": "Pain in Shoulder is sharp in nature",
+        "S58": "Pain in Shoulder is hingling in nature",
+        "S59": "Pain in Shoulder is prickling in nature",
+        "S60": "Pain in Shoulder is burning in nature",
+        "S62": "Pain in Shoulder is beating in nature",
+        "S63": "Pain in Shoulder is associate with posture",
+        "S69": "Pain in Shoulder while washing your back",
+        "S70": "Pain in Shoulder doing activites that require little effort",
+        "S71": "Pain in Shoulder while turning a key",
+        "S73": "Pain in Shoulder while lifing jar from cupboard",
+        "S75": "Pain in Shoulder doing lifing a bag",
+        "S76": "Pain in Shoulder while lifting arms frontway for 30  ̊ ",
+        "S77": "Pain in Shoulder while lifting arms sideways for 30 ̊  to 60 ̊ ",
+        "S78": "Pain in Shoulder while lifting arms sideways for 60 ̊  to 90 ̊ ",
+               "S38": "Pain in Shoulder radiates towards upper back"
+    },
+    "SpecificSymptom": {
+        "S4": "Pain in Shoulder for greater than 3 months",
+        "S14": "Pain in Shoulder while sleeping on affected arm",
+        "S27": "Pain in Shoulder is of moderate intensity",
+        "S36": "Pain in Shoulder radiates towards neck",
+        "S53": "Pain in Shoulder while playing golf",
+        "S12": "Pain in Shoulder while combing hairs",
+        "S1": "Pain in Shoulder less than 1 week",
+        "S39": "Pain in Shoulder radiates towards full arms and wrist",
+        "S7": "Pain in Shoulder in lifting arm front",
+        "S28": "Pain in Shoulder is of severe intensity",
+        "S31": "Pain in Shoulder is between 8-10",
+        "S48": "Pain in Shoulder taking arm backwards straight",
+        "S2": "Pain in Shoulder between 1 to 4 week",
+        "S11": "Pain in Shoulder taking arms straight up",
+        "S15": "Pain in Shoulder while sleeping on non-affected arm",
+        "S18": "Pain in Shoulder after any recent activity",
+        "S25": "Pain in Shoulder remains constant",
+        "S37": "Pain in Shoulder radiates towards elbow",
+        "S61": "Pain in Shoulder is thrombing in nature",
+        "S17": "Pain in Shoulder following any injury",
+        "S65": "Pain in Shoulder while lying and sitting",
+        "S72": "Pain in Shoulder while put on a pullover",
+        "S79": "Pain in Shoulder while lifting arms sideways for 90 ̊  to 120 ̊ ",
+        "S20": "Pain in Shoulder while carrying daily work",
+        "S26": "Pain in Shoulder is of mild intensity",
+        "S29": "Pain in Shoulder is between 0-3",
+        "S30": "Pain in Shoulder is between 4-7",
+        "S32": "Pain in Shoulder relieves after taking rest",
+ 
+        "S40": "Pain in Shoulder while working on laptop",
+        "S41": "Pain in Shoulder while working for 3-4 hours on laptop",
+        "S42": "Pain in Shoulder while working for 4-8 hours on laptop",
+        "S43": "Pain in Shoulder while working for greater than 8 hours",
+        "S67": "Pain in Shoulder while opening a jar",
+        "S68": "Pain in Shoulder pushing a heavy door",
+        "S3": "Pain in Shoulder for greater than 4 week",
+        "S8": "Pain in Shoulder in lifting arm sideways up",
+        "S34": "Pain in Shoulder relieves with medicine",
+        "S56": "Pain in Shoulder is dull in nature",
+        "S64": "Pain in Shoulder is abnormal posture",
+        "S66": "Pain in Shoulder while writing",
+        "S74": "Pain in Shoulder while making a bed",
+         "S33": "Pain in Shoulder relieves on its own"
+    },
+    "DiseaseToSymptoms" : {
+    "SHO1": {
+        "Specific": [
+            "S4",
+            "S14",
+            "S27",
+            "S36",
+            "S53",
+            "S12"
+        ],
+        "General": [
+            "S0",
+  
+      
+          
+            "S45",
+       
+            "S60",
+            "S71",
+            "S73",
+            "S76",
+            "S77",
+      
+        ]
+    },
+    "SHO2": {
+        "General": [
+            "S0",
+            "S5",
+
+            "S19",
+       
+            "S35",
+       
+            "S45",
+         
+            "S52",
+        
+            "S62",
+       
+       
+        ],
+        "Specific": [
+            "S1",
+            "S7",
+            "S39",
+            "S28",
+            "S31",
+            "S48"
+        ]
+    },
+    "SHO3": {
+        "General": [
+            "S0",
+          
+            "S6",
+            "S16",
+            "S19",
+            "S23",
+  
+   
+            "S69",
+     
+            "S78"
+        ],
+        "Specific": [
+            "S2",
+            "S11",
+            "S15",
+            "S18",
+            "S25",
+            "S28",
+            "S37",
+            "S61"
+        ]
+    },
+    "SHO4": {
+        "General": [
+            "S0",
+            "S5",
+  
+            "S22",
+        
+         
+         
+            "S49",
+            "S57",
+       
+         
+            "S76",
+            "S75",
+          
+        ],
+        "Specific": [
+            "S3",
+            "S17",
+            "S27",
+            "S37",
+            "S65",
+            "S72",
+            "S79"
+        ]
+    },
+    "SHO5": {
+        "General": [
+            "S0",
+            "S6",
+            "S10",
+      
+    
+            "S38",
+   
+      
+            "S59",
+            "S60",
+            
+            
+            "S70",
+      
+        
+        ],
+        "Specific": [
+            "S3",
+            "S20",
+            "S26",
+            "S29",
+            "S32",
+            "S33",
+            "S40",
+            "S41",
+            "S42",
+            "S43",
+            "S67",
+            "S68"
+        ]
+    },
+    "SHO6": {
+        "General": [
+            "S0",
+            "S6",
+   
+            "S19",
+
+            "S23",
+            "S24",
+  
+      
+         
+     
+            "S45",
+            "S46",
+            "S50",
+            "S51",
+            "S55",
+            "S57",
+            "S58",
+      
+         
+     
+        ],
+        "Specific": [
+            "S3",
+            "S7",
+            "S8",
+            "S25",
+            "S30",
+            "S34",
+            "S37",
+            "S56",
+            "S64",
+            "S66",
+            "S74"
+        ]
+    }
+}
+}
